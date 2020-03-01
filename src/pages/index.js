@@ -12,9 +12,6 @@ const HomePage = () => {
       <p>
         Anchor regular link <a href="/kontakt">kontakt</a>
       </p>
-      <p>
-        Gatsby link <Link to="/kontakt"> kontakt</Link>
-      </p>
     </Layout>
   )
 }
